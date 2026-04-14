@@ -1,6 +1,6 @@
 {
   "name": "@quentinadam/rlp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple library to encode data using the Recursive Length Prefix (RLP) encoding scheme, commonly used in Ethereum",
   "license": "MIT",
   "author": "Quentin Adam",
