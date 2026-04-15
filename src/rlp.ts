@@ -1,4 +1,4 @@
-import ensure from '@quentinadam/ensure';
+import { ensure } from '@quentinadam/ensure';
 import { concat, fromUintBE } from '@quentinadam/uint8array-extension';
 
 export type ValueOrArray = number | bigint | Uint8Array<ArrayBuffer> | ValueOrArray[];

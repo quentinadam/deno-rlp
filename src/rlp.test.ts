@@ -1,4 +1,4 @@
-import assert from '@quentinadam/assert';
+import { assert } from '@quentinadam/assert';
 import { equals } from '@quentinadam/uint8array-extension';
 import { encode } from './rlp.ts';
 import type { ValueOrArray } from './rlp.ts';
